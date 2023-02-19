@@ -24,6 +24,8 @@ int main(void)
 					putchar('0' + d);
 					putchar('0' + c);
 					putchar('0' + a);
+					putchar(',');
+					putchar(' ');
 				}
 				a++;
 			}
@@ -31,9 +33,6 @@ int main(void)
 		}
 		d++;
 	}
-	putchar('\n');
-	putchar(',');
-	putchar(' ');
-
+	putchar('\n');	
 	return (0);
 }
