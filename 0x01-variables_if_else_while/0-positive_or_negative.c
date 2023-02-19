@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - Determine whether the variable stored in n is a positive or a negative.
+ * main - Determine whether variable stored is a positive or a negative.
  *
  * Return: Always 0 (Success)
  */
