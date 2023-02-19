@@ -32,6 +32,8 @@ int main(void)
 		d++;
 	}
 	putchar('\n');
+	putchar(',');
+	putchar(' ');
 
 	return (0);
 }
