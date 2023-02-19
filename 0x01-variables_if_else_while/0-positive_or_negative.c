@@ -9,7 +9,6 @@
  */
 int main(void)
 {
-	char (82);
 	int n;
 
 	srand(time(0));
