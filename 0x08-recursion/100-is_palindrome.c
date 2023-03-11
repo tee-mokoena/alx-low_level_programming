@@ -16,11 +16,11 @@ int is_palindrome(char *s)
 }
 
 /**
- * _strlen_recusrion - returns the length of a string
+ * _strlen_recursion - returns the length of a string
  * @s: string input
  * Return: length of the string
  */
-int _strlen_recusrion(char *s)
+int _strlen_recursion(char *s)
 {
 	if (*s == '\0')
 		return (0);
